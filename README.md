@@ -4,9 +4,9 @@ Helpers for interacting with the Binance API
 
 ### Usage
 
-Just import from binance_utils.tools
+Just import from binance_utils
 ```python
-from binance_utils.tools import get_exchange_info
+from binance_utils import get_exchange_info
 
 print(get_exchange_info())
 ```
